@@ -33,10 +33,10 @@ function stopGame(){
 
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
-  3: 392,
-  4: 466.2
+  1: 265.2,
+  2: 330,
+  3: 390,
+  4: 477
 }
 function playTone(btn,len){ 
   o.frequency.value = freqMap[btn]
