@@ -44,22 +44,24 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-I did not use any outside resources to help complete my submission besides the Codepath's github instructions.
+
+    I did not use any outside resources to help complete my submission besides Codepath's Github instructions.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+    A challenge that I faced while creating this submission was relearning HTML, CSS, and Javascript after not working with these languages for almost a year. In class, the teacher mainly focused on C++ and Python for development, so I rarely got a chance to practice my web development skills. For example, I did not understand some of the Glitch's blank template code like the line: "<meta name="viewport" content="width=device-width, initial-scale=1" />." When I completed the Odin Project, a web development course, they didn't go into depth about setting meta tags as Glitch did for the blank project. I had to google up what these tags meant on Google and Stackoverflow to get the purpose of the line of code. Another example that I encountered was the "defer" statement after the <script> tag. I found out on google that "defer" basically means that it will execute the script once the document has been parsed.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+    Most of the questions that I had about web development were answered by either Google or StackOverflow. In question #2, I stated how I had to relearn some of the HTML and CSS concepts that I had forgotten after a year of not coding in either language. When it comes to web development, it seems like there are tons of resources that I can turn to if I ever need any help.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
-
+    If I had more time to work on this project, I would add more comments and functionality to the light and sound memory game. I wasn't able to implement some of the optional features like giving the player three lives on each turn or giving the player limited time on each turn. It would be interesting to make the game have a leaderboard where the player can enter a username so that they can be put onto a leaderboard. Instead of having a single-player game, many people can play the game under a different username, and whoever scores the highest would be on top of the leaderboard.
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://imgur.com/a/vtVAMgn)
 
 
 ## License
